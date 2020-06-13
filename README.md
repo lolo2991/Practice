@@ -1,2 +1,2 @@
-# lolochoice
-This is a info stack for NSCA CSCS
+# Parsing practice
+just use this to practice
